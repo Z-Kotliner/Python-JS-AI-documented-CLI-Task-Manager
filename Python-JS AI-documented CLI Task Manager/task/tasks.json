@@ -1,0 +1,20 @@
+{
+  "Monday": [
+    {
+      "task": "First Task",
+      "status": "Done"
+    }
+  ],
+  "Tuesday": [],
+  "Wednesday": [],
+  "Thursday": [],
+  "Friday": [
+    {
+      "task": "Task 2",
+      "status": "Pending"
+    }
+  ],
+  "Saturday": [],
+  "Sunday": [],
+  "General": []
+}
