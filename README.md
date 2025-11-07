@@ -1,9 +1,10 @@
 # CLI Task Manager — Documentation
 
-This project was done to demonstrate and apply the use of AI-assisted coding for code generation, code completion and code documentation.
-GitHub Copilot was used for part of the code writing, especially for JSON file handling and Documentation generation.
+This project was created to demonstrate and apply the use of AI-assisted coding techniques for code generation, code completion and code documentation.
+It was done as part of the fulfilment of the Hyperskill course [AI Tools for Developers: Master Code Generation & Automation](https://hyperskill.org/projects/498) .
+GitHub Copilot was used for portion of the code, particularly for JSON file handling and Documentation generation.
 It was also used to port the code from Python to JavaScript.
-The part of this file below was also generated with the help of GitHub Copilot.
+The section below was also generated with the help of GitHub Copilot.
 
 ---
 
